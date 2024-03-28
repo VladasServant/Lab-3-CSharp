@@ -1,0 +1,16 @@
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.exe
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.deps.json
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.runtimeconfig.json
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.runtimeconfig.dev.json
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.dll
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ref\ProducerConsumer.dll
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.pdb
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.csproj.AssemblyReference.cache
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.AssemblyInfoInputs.cache
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.AssemblyInfo.cs
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.dll
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ref\ProducerConsumer.dll
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.pdb
+C:\Users\riaba\OneDrive\Робочий стіл\Робота\3 курс\2 семестр\Паралельні обчислювання\Лаба 3\C#\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.genruntimeconfig.cache
